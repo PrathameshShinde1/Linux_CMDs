@@ -1,0 +1,33 @@
+apt              (in Linux Pkg manager)
+whoami
+who
+w
+curl googl.com
+wget googl.com
+dig googl.com
+laslog
+uptime
+df -h
+htop
+kill PId
+cat
+uname -a
+la -la
+less file_name   (Gives short view)
+head file_name
+tail file_name
+chmod 755/5/6/7
+find / -name file_name  (find any file)
+which pkg_name   (gives path)
+whereis nmap     (gives path)
+whatis pkg_name  (Gives short description)
+man pkg          (Manual help of pkg)
+apt search pkg_name   (Search the configured software repositories for packages related)
+apt show pkg_name (Show me the details of the Nmap package.)
+history
+!50
+env
+env | grep ____
+ll (displays files, Permissions, Owner, Group, File, Date/time, File or directory name)
+sleep 10
+date
