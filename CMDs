@@ -31,3 +31,4 @@ env | grep ____
 ll (displays files, Permissions, Owner, Group, File, Date/time, File or directory name)
 sleep 10
 date
+clear
